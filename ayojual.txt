@@ -1,2 +1,3 @@
 Ayojual
 - tampilan html ui/ux ayojual
+- kolaborasi dengan programer
